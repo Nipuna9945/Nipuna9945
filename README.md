@@ -1,7 +1,7 @@
 # Hi there, I'm Nipuna Randeer 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuna9945&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuna9945)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuna9945&layout=compact&theme=dark)
+
 
 
 <!--
