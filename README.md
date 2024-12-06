@@ -1,6 +1,8 @@
 # Hi there, I'm Nipuna Randeer 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuna9945&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Nipuna9945&layout=compact&theme=dark)
+
 
 <!--
 **Nipuna9945/Nipuna9945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
