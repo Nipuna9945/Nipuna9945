@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  <!-- QGIS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/QGIS_logo_new.svg" alt="QGIS" width="45" height="45"/>
 </p>
 
 
